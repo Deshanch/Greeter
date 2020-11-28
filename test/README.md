@@ -1,1 +1,1 @@
-##### this contain the test  codes that are written to the test different parts of this project and most of them are not well trained due to less gpu power and therefore the accuracy of them are not good. These are just for trial and error part
+##### this contain the test  codes that are written to the test different parts of this project and most of them are not well trained due to less gpu power and therefore the accuracy of them are not good. These are just for trial and error part therefore they have very much less accuracy.
