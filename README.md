@@ -13,7 +13,7 @@
  
 ## Introduction
 
-This is an individual project developed by me. This system is able to identify a predefined person and express the emotion with 82% accuracy and greet the person according to his mood. I test this system from my laptop web cam.
+This is an individual project developed by me. This system is able to identify a predefined person and express the emotion with 82% accuracy and greet the person according to his mood. I test this system from my laptop web cam. This system is much suitable for an institute to maintain the human resources.
 
 In this repository, only codes for the project are pushed. Images and trained weight files for face detection and emotion recognition are not uploaded. haarcascade files can be downloaded easily.
 
