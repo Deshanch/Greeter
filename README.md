@@ -8,11 +8,11 @@
      
 ## Introduction
 
-<div id="Group Members" >
+
     <div class="inline-block">
         <img src ="https://github.com/Deshanch/Greeter/blob/main/sources/1607535085308.jpg" align="left" width="250" height="250">
     </div>
-</div>
+
 
 Automated Railway Ticketing System whose scope is expanding across the world are now starting to be used not just for public transport ticketing services but also to provide users with an infrastructure that they use in their daily lives including electronic money and mobile services,credit card integration, building access control, and student identification.
 
