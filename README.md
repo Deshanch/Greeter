@@ -3,24 +3,17 @@
 * [Introduction](#introduction)
 * [Problem](#problem)
 * [Solution](#solution)
-  * [The Proposed System With Full Explanation](#the-proposed-system-with-full-explanation)
 * [Advisors](#advisors)
 * [Links](#links)
-
-## Group Members 
-  * Deshan L.A.C &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;E/16/076 &nbsp;&nbsp;&nbsp; e16076@eng.pdn.ac.lk
-  * Madushan  K.H.G.H &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; E/16/217  &nbsp;&nbsp;&nbsp;&nbsp;e16217@eng.pdn.ac.lk
-  * Madushanka H.M.K &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; E/16/221 &nbsp;&nbsp;&nbsp;&nbsp; e16221@eng.pdn.ac.lk
      
 ## Introduction
 
 <div id="Group Members" >
     <div class="inline-block">
-        <img src ="https://github.com/cepdnaclk/e16-3yp-automated-railway-ticketing-system/blob/main/Photos/member1.jpg" align="left" width="250" height="250">
+        <img src ="https://github.com/Deshanch/Greeter/blob/main/sources/1607535085308.jpg" align="left" width="250" height="250">
     </div>
 </div>
 
-![image](https://github.com/cepdnaclk/e16-3yp-automated-railway-ticketing-system/blob/main/Photos/introduction.jpg)
 Automated Railway Ticketing System whose scope is expanding across the world are now starting to be used not just for public transport ticketing services but also to provide users with an infrastructure that they use in their daily lives including electronic money and mobile services,credit card integration, building access control, and student identification.
 
 Most of leading companies in the world have already contributed to this process through the development and implementation of smartcard ticketing systems for different regions and is now working on the development of systems that support the implementation of smart systems that underpin society and combine information and controlto provide new social infrastructure for the foreseeable future.
